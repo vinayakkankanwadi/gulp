@@ -4,7 +4,7 @@
   "description": "Hello World from Gulpjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "default": "node ./node_modules/gulp/bin/gulp.js default"
   },
   "repository": {
     "type": "git",
