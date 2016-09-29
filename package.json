@@ -1,0 +1,25 @@
+{
+  "name": "gulpjs",
+  "version": "1.0.0",
+  "description": "Hello World from Gulpjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakkankanwadi/gulpjs.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Vinayak Kankanwadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinayakkankanwadi/gulpjs/issues"
+  },
+  "homepage": "https://github.com/vinayakkankanwadi/gulpjs#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
